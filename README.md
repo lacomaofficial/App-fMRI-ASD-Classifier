@@ -1,4 +1,4 @@
-# 🔬 **Transformer-Based fMRI Analysis for Autism Prediction** 🧠  
+# 🔬 **Transformer-Based fMRI Analysis for Autism Prediction**   
 
 I’ve been working on an app that applies a **Transformer-based fMRI encoder model** to predict autism from resting-state fMRI data. The model is trained on datasets like **ABIDE** and integrates **brain connectivity features with demographic data (age, gender)** for classification.  
 
